@@ -5,7 +5,6 @@ live or recorded cooking sessions, interact with expert chefs, access
 study materials, and where admins can efficiently manage users and
 course content.
 
-## 🚀 Features
 
 ### 👨‍🍳 For Users
 
@@ -14,6 +13,9 @@ course content.
 -   Watch recorded lessons anytime
 -   Interact with expert chefs via Q&A or chat
 -   Access downloadable study materials and recipes
+
+<img width="501" height="337" alt="image" src="https://github.com/user-attachments/assets/9355a19f-f7a8-4144-b36c-0011d81a40dd" />
+
 
 ### 🔧 For Admins
 
