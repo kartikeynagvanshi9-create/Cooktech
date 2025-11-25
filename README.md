@@ -120,7 +120,7 @@ Student: student@example.com / Student@123
 Instructor: chef@example.com / Chef@123
 
 📁 Project Structure
-
+```
 Online_Cooking_Class_Platform/
 ├── src/
 │   ├── main/
@@ -164,7 +164,7 @@ Online_Cooking_Class_Platform/
 │
 ├── pom.xml                                   # Maven dependencies
 └── README.md                                 # This file
-
+```
 
 🗄 Database Schema
 
